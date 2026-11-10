@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BrunvaServer.Api/BrunvaServer.Api.csproj" />
+    <Project Path="src/BrunvaServer.Application/BrunvaServer.Application.csproj" />
+    <Project Path="src/BrunvaServer.Domain/BrunvaServer.Domain.csproj" />
+    <Project Path="src/BrunvaServer.Infrastructure/BrunvaServer.Infrastructure.csproj" />
+    <Project Path="src/BrunvaServer.Shared/BrunvaServer.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BrunvaServer.Application.Tests/BrunvaServer.Application.Tests.csproj" />
+    <Project Path="tests/BrunvaServer.Infrastructure.Tests/BrunvaServer.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
